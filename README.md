@@ -8,10 +8,6 @@
 ## スキル
 ### 言語
 
-![HTML5](https://simpleicons.org/icons/html5.svg "HTML5")
-
-![CSS3](https://simpleicons.org/icons/css3.svg "CSS3")
-
 - HTML5 & CSS3
 - Sass
 - Tailwind CSS
