@@ -4,6 +4,8 @@
 - Name:
 - Blog: [ブログ名](URL)
 - Twitter: @darry6335 https://twitter.com/home?lang=ja
+- 最終学歴：サイバー大学IT総合学科IT総合学部（数理・データサイエンス・AI教育プログラム　AI 応用基礎レベル 2022認定）
+- [LAPRAS](https://lapras.com/public/Q05HUIJ)
 
 ## スキル
 ### 言語
@@ -52,7 +54,9 @@ WEB開発、機械学習
 社内SE
 #### 職務の中で学んだことや得られた知識・スキルなど
 ExcelVBA, Access, UiPathを使った業務効率化を担当。
-内１年程、Pythonを使ってGUI操作自動化プロジェクトも経験
+内１年程、GUI操作自動化プロジェクトも経験（PyAutoGUI）
+Power Automateのフロー作成、運用保守
+業務分析、業務効率化提案業務
 
 ### yyyy/mm - yyyy/mm: （以前の企業名、プロジェクト名）
 #### 職務内容
