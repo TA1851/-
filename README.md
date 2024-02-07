@@ -25,6 +25,7 @@
 - Laravel
 - Fast API
 - SQL Alchemy
+- beautifulsuop4（html解析と画像サイズの取得）
 
 ### その他
 - Linux
