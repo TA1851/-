@@ -84,7 +84,7 @@
 - プロジェクト管理方法とマネジメント能力
 - QGIS操作方法とデータの可視化
 - webスクレイピング（不動産情報取得）
-
+- APIを利用したデータ取得
 ### 執筆歴
 - [Qiita](https://qiita.com/TA6335)
 - [Zenn](https://zenn.dev/tosaka1851)
