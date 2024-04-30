@@ -86,6 +86,7 @@
 - webスクレイピング（不動産情報取得）
 - APIを利用したデータ取得
 - 統計地理情報システムの活用
+- JSTAT MAPを使った統計情報可視化
 ### 執筆歴
 - [Qiita](https://qiita.com/TA6335)
 - [Zenn](https://zenn.dev/tosaka1851)
