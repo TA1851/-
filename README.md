@@ -2,8 +2,6 @@
 
 ### 基本情報
 - Name: Osaka Tatsuhiko
-- Blog: [ブログ名](URL)
-- Twitter: @darry6335 https://twitter.com/home?lang=ja
 - 最終学歴：サイバー大学IT総合学科IT総合学部 ([数理・データサイエンス・AI教育プログラム　AI 応用基礎レベル 2022認定](https://www.mext.go.jp/a_menu/koutou/suuri_datascience_ai/00002.htm))
 - [LAPRAS](https://lapras.com/public/Q05HUIJ)
 
@@ -11,24 +9,17 @@
 #### 言語
 - HTML5 & CSS3
 - Tailwind CSS
-- Javascript
-- Typescript
+- Typescript & Javascript(1年)
 - SQL(Postgres, SQLite3)
 - Python（1年）
 - ExcelVBA(5年)
 #### フレームワーク
 - React
 - Next.js
-- beautifulsuop4
-- Pandas
-- Numpy
-- Sphinx
-- Selenium
 #### その他
 - Git&Github（3年）
 - Linux(4年)
 - Figma
-- Cabvas
 ### 言語
 - 日本語
   - ネイティブ
@@ -48,7 +39,7 @@
 - 海外、国内客先で半導体製造装置のセットアップ業務に従事
 #### 2019.10 ~ 2023.7 : 半導体メーカー勤務(社内SE)
 ##### 職務内容
-- 評価装置のモニタリングと初動管理
+- 社内業務ツールの作成
 - プログラム設計の作成
 - コーディング
 - テスト
@@ -63,12 +54,11 @@
 - Linuxコマンドの基礎
 - SQLコマンドの基礎
 - GUI操作ツールの作成(PyAutoGUI)
-- データクレンジング（Excel VBA）
+- データ研磨方法
 #### 2024.1 ~         : SES企業勤務
-#### 2024.1  ~ 2024.7 : 不動産会社管理業務効率化プロジェクト
+#### 2024.1  ~ 2024.8 : 不動産会社管理業務効率化プロジェクト
 ##### 業務内容
-- 顧客からヒアリング
-- プロジェクト進捗会議
+- 顧客とのミーティングやプロジェクト進捗会議
 - 要件定義書作成
 - プログラム詳細設計書作成と設計
 - コーディング
@@ -78,6 +68,7 @@
 - OCRツールを使った自動化作業
 - リリース後サポート業務
 - I-SP（不動産管理システム）のデータ抽出、集計業務
+- 他社物件のデータ収集
 #### 職務の中で学んだことや得られた知識・スキルなど
 - Pythonライブラリを使ったコーディング（PyautoGUI, Beautifulsoup4, Spnix, Pandas, Selenium）
 - 要件定義書や仕様設計書の作成手法や知識
@@ -87,6 +78,7 @@
 - APIを利用したデータ取得
 - 統計地理情報システムの活用
 - JSTAT MAPを使った統計情報可視化
+- 反復型アジュール開発
 ### 執筆歴
 - [Qiita](https://qiita.com/TA6335)
 - [Zenn](https://zenn.dev/tosaka1851)
@@ -102,7 +94,7 @@
 ### 現在となりたい姿とのギャップ
 
 ### なりたい姿を達成するために、取り組みたいこと
-#### 1年目：ITパスポートの取得、OSS-Silverの取得
+#### 1年目：OSS-Silverの取得、DBの知見を深める
 - 技術のキャッチアップ＋資格取得
 #### 2年目：
 #### 3年目：
