@@ -16,9 +16,14 @@
 #### フレームワーク
 - React
 - Next.js
+- Tkinter
+#### ライブラリ
+- SQLAlthmy
+- BeautifulSoup
+- Pandas
 #### その他
 - Git&Github（3年）
-- Linux(4年)
+- CentOS7(4年)
 - Figma
 ### 言語
 - 日本語
