@@ -16,12 +16,17 @@
 
 #### フレームワーク
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=tailwind,react,next,fastapi,flask,django" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=tailwind,react,next,fastapi,flask,django,selenium" />
 
 #### ライブラリ
 - SQLAlthmy
 - BeautifulSoup
 - Pandas
+
+#### インフラ
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=docker,vite,vercel" />
+
 #### その他
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=figma,github,sqlite," />
