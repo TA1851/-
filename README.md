@@ -5,6 +5,8 @@
 - 最終学歴：サイバー大学IT総合学科IT総合学部 ([数理・データサイエンス・AI教育プログラム　AI 応用基礎レベル 2022認定](https://www.mext.go.jp/a_menu/koutou/suuri_datascience_ai/00002.htm))
 - [LAPRAS](https://lapras.com/public/Q05HUIJ)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 ### スキル
 #### 言語
 
