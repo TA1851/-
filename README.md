@@ -12,6 +12,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TA1851)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiTA1851=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 #### フレームワーク
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=tailwind,react,next,fastapi,flask,django" />
