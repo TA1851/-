@@ -14,7 +14,7 @@
 
 #### フレームワーク
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=tailwind,react,next,fastapi,flask,django,selenium" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=tailwind,react,next,fastapi,flask,django" />
 
 #### ライブラリ
 - SQLAlthmy
@@ -28,10 +28,6 @@
 #### その他
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=figma,github,sqlite," />
-
-- Git&Github（3年）
-- CentOS7(4年)
-- Figma
 
 ### 言語
 - 日本語
