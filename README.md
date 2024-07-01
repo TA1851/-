@@ -4,7 +4,7 @@
 - Name: Osaka Tatsuhiko
 - 最終学歴：サイバー大学IT総合学科IT総合学部 ([数理・データサイエンス・AI教育プログラム　AI 応用基礎レベル 2022認定](https://www.mext.go.jp/a_menu/koutou/suuri_datascience_ai/00002.htm))
 - [LAPRAS](https://lapras.com/public/Q05HUIJ)
-
+img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" 
 ### スキル
 #### 言語
 - HTML5 & CSS3
