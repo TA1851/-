@@ -5,10 +5,11 @@
 - 最終学歴：サイバー大学IT総合学科IT総合学部 ([数理・データサイエンス・AI教育プログラム　AI 応用基礎レベル 2022認定](https://www.mext.go.jp/a_menu/koutou/suuri_datascience_ai/00002.htm))
 - [LAPRAS](https://lapras.com/public/Q05HUIJ)
 
-https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim
-
 ### スキル
 #### 言語
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,python,vba" />
+
 - HTML5 & CSS3
 - Tailwind CSS
 - Typescript & Javascript(1年)
@@ -28,7 +29,7 @@ https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim
 - CentOS7(4年)
 - Figma
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,tailwindcss,js,ts,react,next,figma,python,fastapi,flask,django" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,tailwindcss,js,ts,react,next,figma,python,fastapi,flask,django,github,sqlite," />
 
 ### 言語
 - 日本語
