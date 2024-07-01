@@ -25,6 +25,9 @@
 - Git&Github（3年）
 - CentOS7(4年)
 - Figma
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,terraform,aws,gcp" />
+
 ### 言語
 - 日本語
   - ネイティブ
