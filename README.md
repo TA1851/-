@@ -26,7 +26,7 @@
 - CentOS7(4年)
 - Figma
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,flask,django" />
 
 ### 言語
 - 日本語
