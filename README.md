@@ -10,26 +10,25 @@
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,python,vba" />
 
-- HTML5 & CSS3
-- Tailwind CSS
 - Typescript & Javascript(1年)
-- SQL(Postgres, SQLite3)
 - Python（1年）
 - ExcelVBA(5年)
+
 #### フレームワーク
-- React
-- Next.js
-- Tkinter
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=tailwind,react,next,fastapi,flask,django" />
+
 #### ライブラリ
 - SQLAlthmy
 - BeautifulSoup
 - Pandas
 #### その他
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=figma,github,sqlite," />
+
 - Git&Github（3年）
 - CentOS7(4年)
 - Figma
-
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,tailwindcss,js,ts,react,next,figma,python,fastapi,flask,django,github,sqlite," />
 
 ### 言語
 - 日本語
