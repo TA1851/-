@@ -18,11 +18,6 @@
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=tailwind,react,next,fastapi,flask,django" />
 
-#### ライブラリ
-- SQLAlthmy
-- BeautifulSoup
-- Pandas
-
 #### インフラ
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=docker,vite,vercel" />
@@ -30,6 +25,25 @@
 #### その他
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=figma,github,sqlite," />
+
+#### ライブラリ
+- SQLAlthmy
+- BeautifulSoup
+- Pandas
+
+#### 開発環境
+・ドキュメント: Shpnix, Notion
+・コミニュケーション: Slack, Teams
+・端末：Mac, Windows
+・RPA : PowerAutomate
+
+#### プロダクト開発環境
+・言語: Python3, Javascript, Typescript, Excel VBA
+・フレームワーク: Next.js, React
+・インフラ: 
+・テスト: Pytest
+・SQLite, SQL Server
+・その他：Git, GitHub
 
 ### 言語
 - 日本語
