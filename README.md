@@ -10,10 +10,6 @@
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,python,vba" />
 
-- Typescript & Javascript(1年)
-- Python（1年）
-- ExcelVBA(5年)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TA1851)](https://github.com/anuraghazra/github-readme-stats)
 
 #### フレームワーク
