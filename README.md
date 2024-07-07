@@ -3,9 +3,9 @@
 ### 基本情報
 - Name: Osaka Tatsuhiko
 - 最終学歴：サイバー大学IT総合学科IT総合学部 ([数理・データサイエンス・AI教育プログラム　AI 応用基礎レベル 2022認定](https://www.mext.go.jp/a_menu/koutou/suuri_datascience_ai/00002.htm))
-- [LAPRAS](https://lapras.com/public/Q05HUIJ)
 
 ### スキル
+
 #### 言語
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,python,vba" />
@@ -30,6 +30,7 @@
 - SQLAlthmy
 - BeautifulSoup
 - Pandas
+- Selenium
 
 #### 開発環境
 ・ドキュメント: Shpnix, Notion
@@ -39,7 +40,7 @@
 
 #### プロダクト開発環境
 ・言語: Python3, Javascript, Typescript, Excel VBA
-・フレームワーク: Next.js, React
+・フレームワーク: TKinter, Django
 ・インフラ: 
 ・テスト: Pytest
 ・SQLite, SQL Server
@@ -63,11 +64,10 @@
 #### 2019.10 ~ 2023.7 : 半導体メーカー勤務(社内SE)
 ##### 職務内容
 - 社内業務ツールの作成
-- プログラム設計の作成
+- 仕様書等のドキュメント作成
 - コーディング
 - テスト
 - 機能改善
-- 手順書などのドキュメント作成
 - データ可視化業務（JupyterLab,Excel VBA）
 - データクレンジング（Excel VBA）
 ##### 職務の中で学んだことや得られた知識・スキルなど
@@ -81,19 +81,16 @@
 #### 2024.1 ~         : SES企業勤務
 #### 2024.1  ~ 2024.8 : 不動産会社管理業務効率化プロジェクト
 ##### 業務内容
-- 顧客とのミーティングやプロジェクト進捗会議
+- 顧客とのプロジェクト進捗会議
 - プログラム詳細設計書作成と要件定義書作成
 - コーディング
 - テスト
 - 機能改善
-- 手順書等ドキュメント作成
-- OCRツールを使った自動化作業
-- リリース後サポート業務
-- I-SP（不動産管理システム）のデータ抽出、集計業務
-- 物件のデータ収集
+- 手順書作成
+- I-SP（不動産管理システム）からのデータ抽出、集計業務
 - 自社空室物件と周辺エリアの空室状況調査
 #### 職務の中で学んだことや得られた知識・スキルなど
-- Pythonライブラリを使ったコーディング（PyautoGUI, Beautifulsoup4, Spnix, Pandas, Selenium）
+- Pythonライブラリを使ったコーディング（PyautoGUI, Beautifulsoup4, Sphnix, Pandas, Selenium）
 - 要件定義書や仕様設計書の作成手法や知識
 - プロジェクト管理方法とマネジメント能力
 - QGIS操作方法とデータの可視化
