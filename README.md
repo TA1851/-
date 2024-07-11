@@ -16,7 +16,7 @@
 
 #### フレームワーク
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=tailwind,react,next,fastapi,flask,django" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=tailwind,react,next,fastapi,django" />
 
 #### インフラ
 
