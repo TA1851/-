@@ -43,10 +43,15 @@
 
 #### プロダクト開発環境
 ・言語: Python3, Javascript, Typescript, Excel VBA
+
 ・フレームワーク: TKinter, FastAPI
+
 ・インフラ: 
+
 ・テスト: Pytest
+
 ・SQLite, SQL Server
+
 ・その他：Git, GitHub
 
 ### 言語
