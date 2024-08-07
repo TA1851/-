@@ -103,7 +103,6 @@
 
 ### 執筆歴
 - [Qiita](https://qiita.com/TA6335)
-- [Zenn](https://zenn.dev/tosaka1851)
 
 ---
 
