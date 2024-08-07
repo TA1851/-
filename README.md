@@ -1,7 +1,5 @@
 ### スキル
 
-#### 言語
-
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,python,vba" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TA1851)](https://github.com/anuraghazra/github-readme-stats)
