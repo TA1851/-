@@ -1,9 +1,3 @@
-## 職務経歴書
-
-### 基本情報
-- Name: Osaka Tatsuhiko
-- 最終学歴：サイバー大学IT総合学科IT総合学部 ([数理・データサイエンス・AI教育プログラム　AI 応用基礎レベル 2022認定](https://www.mext.go.jp/a_menu/koutou/suuri_datascience_ai/00002.htm))
-
 ### スキル
 
 #### 言語
