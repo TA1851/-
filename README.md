@@ -34,8 +34,11 @@
 
 #### 開発環境
 ・ドキュメント: Shpnix, Notion
+
 ・コミニュケーション: Slack, Teams
+
 ・端末：Mac, Windows
+
 ・RPA : PowerAutomate
 
 #### プロダクト開発環境
