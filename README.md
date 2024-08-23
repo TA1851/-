@@ -18,12 +18,6 @@
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=figma,github,sqlite," />
 
-#### ライブラリ
-- SQLAlthmy
-- BeautifulSoup
-- Pandas
-- Selenium
-
 ---
 #### 開発環境
 ・ドキュメント: Shpnix, Notion
