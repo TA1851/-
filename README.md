@@ -44,6 +44,7 @@
 ・SQLite, SQL Server
 
 ・その他：Git, GitHub,DBeaver
+
 ---
 ### 個人開発
 
@@ -66,7 +67,6 @@ JWT認証
 機能リファクタリング
 
 - デプロイ（HEROKU）
-
 
 ---
 - デスクトップアプリ開発
