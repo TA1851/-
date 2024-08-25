@@ -37,7 +37,7 @@
 
 ・SQLite, SQL Server
 
-・その他：Git, GitHub,DBeaver
+・その他：Git, GitHub,DBeaver,Sizzy,Dash
 
 ---
 ### 個人開発
