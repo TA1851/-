@@ -74,13 +74,9 @@ JWT認証
 データベース：SQLite3
 
 ---
-- お天気アプリ開発
+- ポートフォリオサイト
 
-概要：天気APIで各地の天気情報を取得する
-
-使用言語：JavaScript, Html, CSS
-
-ライブラリ：Vue.js
+使用言語：Html, TailwindCSS
 
 ---
 ### 職務経歴
