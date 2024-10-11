@@ -37,11 +37,11 @@
 
 ・テスト: Pytest, UnitTest
 
-・SQLite, SQL Server
+・データベース: SQLite, SQL Server
 
-・ソースコード管理：Git, GitHub
+・ソースコード管理： Git, GitHub
 
-・DBeaver, Sizzy
+・その他: DBeaver, Sizzy
 
 ---
 ### 個人開発（開発中）
