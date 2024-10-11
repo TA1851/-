@@ -93,13 +93,13 @@ python3(PyCTI)
 - 不動産基幹システムのデータ抽出、加工、集計業務
 - JSTAMAPを使った統計情報の可視化
 - 反復型アジャイル開発
----
+
 ##### 使用技術
 - Excel VBA, Python3.12
 - git,github
 - sphinx
 - Selenium,Pandas,JupyterLab,BeautifulSoup
----
+
 ##### Document
 - 要件定義書
 - 詳細設計書
