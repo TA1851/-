@@ -19,7 +19,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=figma,github,sqlite," />
 
 ---
-#### 開発環境
+#### 経験技術領域
 ・ドキュメント: Shpnix, Notion
 
 ・コミニュケーション: Slack, Teams
@@ -27,17 +27,21 @@
 ・端末：Mac, Windows
 
 #### プロダクト開発環境
-・言語: Python3, Javascript, Typescript, Excel VBA
+・言語: Python3, Typescript, Excel VBA
 
-・フレームワーク: TKinter, FastAPI,SqlAlthemy
+・フレームワーク: TKinter, FastAPI
+
+・ORM: SQLALTHEMY
 
 ・インフラ: Docker
 
-・テスト: Pytest
+・テスト: Pytest, UnitTest
 
 ・SQLite, SQL Server
 
-・その他：Git, GitHub, DBeaver, Sizzy
+・ソースコード管理：Git, GitHub
+
+・DBeaver, Sizzy
 
 ---
 ### 個人開発（開発中）
@@ -63,59 +67,64 @@ JWT認証
 - デプロイ（HEROKU）
 
 ---
-- ポートフォリオサイト（開発中）
+- ポートフォリオサイト
 
 使用言語：Html, TailwindCSS
 
 ---
-### 個人開発（実績）
-- デスクトップアプリ開発
-概要：書籍管理ツールをローカル環境で構築する
-
-使用言語：Python3
-
-ライブラリ：SQLALTHMY, TKinter
-
-データベース：SQLite3
-
----
 ### 職務経歴
-#### 2019年以前は非IT部門に従事
+---
+#### 2024.11 ~
+##### 社内システムDX案件
+##### 使用技術
+python3, SAP HANA, SnowFlake
 
 ---
-#### 不動産会社管理業務効率化プロジェクト（プロジェクト期間:2024/3 ~ 2024/8/E）
+#### 2024.9 ~ 2024.10
+##### サイバーセキュリティ開発案件
+- 参画フェーズ：製造、単体テスト
+
+##### 使用技術
+python3(PyCTI)
+
+---
+#### 2024.3 ~ 2024.8
+##### 不動産会社管理業務効率化プロジェクト(社内SE)
 - 不動産基幹システムのデータ抽出、加工、集計業務
 - JSTAMAPを使った統計情報の可視化
 - 反復型アジャイル開発
 ---
-#### 使用技術
-- Excel VBA
+##### 使用技術
+- Excel VBA, Python3.12
 - git,github
 - sphinx
 - Selenium,Pandas,JupyterLab,BeautifulSoup
 ---
-#### Document
+##### Document
 - 要件定義書
 - 詳細設計書
 - ユーザ向け手順書作成
 
 ---
 #### 2019.10 ~ 2023.7 : 半導体メーカー勤務(社内SE)
+
 ##### 職務内容
 - 社内業務ツールの作成（Excel VBA, PyAutoGUI）
-- 
+
 ##### 職務の中で学んだことや得られた知識・スキルなど
 - ExcelVBA, Pythonを使った業務効率化手法
 - RPAを使用したノーコードツールの使用方法
-- 要件定義書や仕様書の作成方法
 - Linuxの知識（CentOS7）
 - SQLの知識
+
 ---
 ### 執筆歴
 - [Qiita](https://qiita.com/TA6335)
 ---
 ### 将来どうなりたいか
-#### フルスタックな開発ができるようになり、Typescript&Pythonの知見を深め、いろいろな開発ができるエンジニアになりたい。
+#### フルスタックな開発ができるようになる。
+Typescript&Pythonの知見を深める。
+
 ---
 ### なりたい姿を達成するために、取り組みたいこと
 #### スキーマ設計、インフラ設計の知見を深める
