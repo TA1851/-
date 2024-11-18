@@ -91,39 +91,36 @@ python3(PyCTI)
 ---
 #### 2024.3 ~ 2024.8
 ##### 不動産会社管理業務効率化プロジェクト(社内SE)
-- 不動産基幹システムのデータ抽出、加工、集計業務
+- 不動産基幹システムのデータ抽出、加工、集計業務(Excel VBA)
 - JSTAMAPを使った統計情報の可視化
+- 他社物件情報データ収集（Python3）
 - 反復型アジャイル開発
+- 顧客向けドキュメント作成
 
 ##### 使用技術
-- Excel VBA, Python3.12
 - git,github
 - sphinx
 - Selenium,Pandas,JupyterLab,BeautifulSoup
 
-##### Document
-- 要件定義書
-- 詳細設計書
-- ユーザ向け手順書作成
-
 ---
-#### 2019.10 ~ 2023.7 : 半導体メーカー勤務(社内SE)
+#### 2019.10 ~ 2023.7 : 半導体メーカー勤務
+測定工程の品質管理部に所属
 
 ##### 職務内容
-- 社内業務ツールの作成（Excel VBA, PyAutoGUI）
+- 社内業務効率化プロジェクト（2年）
 
-##### 職務の中で学んだことや得られた知識・スキルなど
-- ExcelVBA, Pythonを使った業務効率化手法
-- RPAを使用したノーコードツールの使用方法
-- Linuxの知識（CentOS7）
-- SQLの知識
+##### 使用技術
+- git,github
+- sphinx
+- Selenium,Pandas,JupyterLab,PyautoGUI,matplotlib
+- SQL Server
 
 ---
 ### 執筆歴
 - [Qiita](https://qiita.com/TA6335)
+
 ---
 ### 将来どうなりたいか
-#### フルスタックな開発ができるようになる。
 Typescript&Pythonの知見を深める。
 
 ---
