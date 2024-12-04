@@ -74,46 +74,42 @@ JWT認証
 ---
 ### 職務経歴
 ---
-#### 2024.11 ~
-##### ERPパッケージ開発案件
-- 参画フェーズ: 要件定義 ~
+#### 2024.11 ~ 2024.12
+##### 仮想データベースアップグレードプロジェクト
 ##### 使用技術
-python3, SAP HANA, SnowFlake
+AWS（EC2) / Denodo
 
 ---
 #### 2024.8 ~ 2024.10
 ##### サイバーセキュリティ開発案件
 - 参画フェーズ：製造、単体テスト
-
 ##### 使用技術
 python3(PyCTI)
 
 ---
 #### 2024.3 ~ 2024.8
 ##### 不動産会社管理業務効率化プロジェクト(社内SE)
-- 不動産基幹システムのデータ抽出、加工、集計業務
+- 不動産基幹システムからのデータ抽出、加工、集計業務
 - JSTAMAPを使った統計情報の可視化
 - 他社物件情報データ収集（Python3）
 
 ##### 使用技術
 - git,github
-- sphinx
-- Selenium,Pandas,JupyterLab,BeautifulSoup
+- Python3
+- sphinx, Selenium, Pandas, JupyterLab, BeautifulSoup
 - Excel VBA
 
 ---
 #### 2019.10 ~ 2023.7 : 半導体メーカー勤務
-測定工程の品質管理部に所属
-
 ##### 職務内容
-- 社内SE
+- 社内SE(測定工程の品質管理グループ)
 - DXプロジェクト
-
 ##### 使用技術
 - git,github
-- sphinx
+- Python3
 - Selenium,Pandas,JupyterLab,PyautoGUI,matplotlib
 - SQL Server
+- ExcelVBA
 
 ---
 ### 執筆歴
